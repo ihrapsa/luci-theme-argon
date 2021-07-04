@@ -382,8 +382,8 @@ hr {
   margin-right: 25px;
 }
 .login-page .login-container .login-form .brand .brand-text {
-  font-size: 1.25rem;
-  font-weight: 700;
+  font-size: 2.25rem;
+  font-weight: 200;
   font-family: "TypoGraphica";
 }
 .login-page .login-container .login-form .brand:hover {
